@@ -14,7 +14,7 @@ Ext.define('TTT.Application', {
         TTT.BUILD_DATE = '$BUILD_DATE$';
         TTT.BUILD_VERSION = '$BUILD_VERSION$';
     },
-    
+    kk:[],
     launch: function() {        
         
         var me = this;
